@@ -1,0 +1,17 @@
+Problem:
+
+We want to build a dashboard for a user that shows the current temperature of the house. 
+You can assume that the house temperature is constant at 70 degrees when you start. 
+The user can increase or decrease the temperature by clicking "Heat" and "Cool" buttons on the dashboard. 
+Each click will increase/decrease the temperature by 1 degree. 
+The dashboard shows current temperature and the history of the temperatures over time.
+
+The dashboard has the following components:
+
+A "Current Temperature" text that shows current temperature: Example: Current Temperature: 71 
+A graph, that shows the value of current temperature over time for the past 15 minutes
+2 Buttons: "Heat" and "Cool"
+
+You can design the frontend and backend in any language you choose. My preference is a react front end 
+and python backend. Use of flask is encouraged. You should deploy this on AWS (use free tier) and 
+provide me a link to your project. Also, send me your code for review.
